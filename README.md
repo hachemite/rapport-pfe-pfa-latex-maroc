@@ -3,6 +3,7 @@
 [![Check & Compile](https://github.com/hachemite/rapport-pfe-pfa-latex-maroc/actions/workflows/check.yml/badge.svg)](https://github.com/hachemite/rapport-pfe-pfa-latex-maroc/actions/workflows/check.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Changelog](https://img.shields.io/badge/Changelog-Keep%20a%20Changelog-blue)](CHANGELOG.md)
+[![Open in Overleaf](https://img.shields.io/badge/Open%20in-Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/docs?snip_uri=https://github.com/hachemite/rapport-pfe-pfa-latex-maroc/archive/refs/heads/main.zip)
 
 Le modèle LaTeX officiel, standardisé et automatisé pour la rédaction de **rapports de stage**, de **Projets de Fin d'Année (PFA)** et de **Projets de Fin d'Études (PFE)** à l'**ENSAF (École Nationale des Sciences Appliquées de Fès)**, adaptable à l'ensemble du **réseau ENSA Maroc** et aux grandes écoles d'ingénieurs (ENSEM, EMI, INPT, EHTP, FST).
 
